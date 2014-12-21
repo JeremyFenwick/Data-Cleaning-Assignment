@@ -20,7 +20,7 @@ which gyroscope data was being recorded:
   
   LAYING
 
-3. The remaining 86 columns are the average, by subject and by activity, of means and standard deviations of the below.
+3. The remaining 86 columns are the average (mean), by subject and by activity, of means and standard deviations of the below.
 
 Each column name starts with the type of the gyroscope data. These column names match the supplied documents, for easy cross
 referencing:
