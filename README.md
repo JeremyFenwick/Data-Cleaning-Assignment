@@ -30,4 +30,6 @@ outputs a test file "tidy_data.txt" inside the "UCI HAR Dataset" folder. Whilst 
 don't meet best practice guidelines (they include spaces and other characters) it seemed important to have the data be
 easily cross referenced with the original, supplied documents.
 
+Use "read.table("tidy_data.txt", header = TRUE)" to load the text file back into R.
+
 This course is amazing, by the way :)
