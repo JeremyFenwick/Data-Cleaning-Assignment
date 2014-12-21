@@ -3,7 +3,7 @@ Data-Cleaning-Assignment
 
 Greetings classmates :P
 
-The included script "run_analyis.R" will assemble the provided Samsung phone data and output a tidy summary.
+The included script "run_analysis.R" will assemble the provided Samsung phone data and output a tidy summary.
 
 Before running the script please set your working directory using the setwd() function to the folder
 containing the "UCI HAR Dataset" folder as the code is written with this assumption. Also note the "dplyr" package
